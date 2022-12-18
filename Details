@@ -12,8 +12,9 @@ Topics:
   new --> keyword used to create a imaginary real-time entity into the program
   this ---> adding properties/attibutes ( construction )
   function construction & use of this keyword
-    function keyword --> has the ability to create **new** object ( constructor )
-    arrow function --> does not have the ability to creating new object
+    function keyword --> has the ability to create **new** object ( constructor ) --> heavy weighted
+    arrow function --> does not have the ability to creating new object --> light weighted
+
 
   class construction:
     ES5 --> function keyword was used for everything (create obj, normal function ...)
